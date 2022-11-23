@@ -8,5 +8,13 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psu6510110245/git101.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psu6510110245/git101/issues"
+  },
+  "homepage": "https://github.com/psu6510110245/git101#readme",
   "description": ""
 }
